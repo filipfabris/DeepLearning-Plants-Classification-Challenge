@@ -1,7 +1,7 @@
 # DeepLearningHomework1
 
-* Course: `NUMERICAL ANALYSIS FOR MACHINE LEARNING`
-* Professor: `Prof. Dr. Miglio Edie`
+* Course: `ARTIFICIAL NEURAL NETWORKS AND DEEP LEARNING`
+* Professor: `Prof. Dr. Matteucci Matteo`, `Prof. Dr. Giacomo Boracchi`
 * University: `Politecnico di Milano`
 
 ## Project Structure:
