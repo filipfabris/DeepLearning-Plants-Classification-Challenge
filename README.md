@@ -1,5 +1,9 @@
 # DeepLearningHomework1
 
+* Course: `NUMERICAL ANALYSIS FOR MACHINE LEARNING`
+* Professor: `Prof. Dr. Miglio Edie`
+* University: `Politecnico di Milano`
+
 ## Project Structure:
 ### 1. Cleaning Data
 - Using FastDump clustering, we removed outliers and duplicate images.
